@@ -1,2 +1,2 @@
-# my-newbie-repo
-This is a simple repo.
+# PRG1 ASG
+Programming Assignment 
